@@ -1,9 +1,0 @@
-hiber\dao\UserDaoImp.class
-hiber\model\User.class
-hiber\config\WebConfig.class
-hiber\controller\UserController.class
-hiber\service\UserService.class
-hiber\dao\UserDao.class
-hiber\config\JavaConfig.class
-hiber\config\AppInit.class
-hiber\service\UserServiceImp.class
